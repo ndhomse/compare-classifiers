@@ -25,7 +25,8 @@ For this purpose, we used a dataset related to the marketing of bank products ov
   * DecisionTree came up very close to the best recall score. It also has the shortest fit time of all models.
   * SVM comes up next best, but at a very high compute cost.
   * Recommend using the DecisionTree model for this use case
-  ![](images/results-simple-models.png)
+  
+  ![](images/results-simple-models.PNG)
 
 #### Next Steps and Recommendations ####
 * Recommend using the DecisionTree model for predictions for this use case
