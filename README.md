@@ -1,7 +1,7 @@
 # Practical Application 3-17.1 - Comparing Classifiers #
 * Work done for the complete analysis including statistics, observations, and visualizations available in:
 
-    [Jupiter Notebook used](https://github.com/ndhomse/compare-classifiers/blob/master/notebook/Practical_App_3_17.1.ipynb)
+    [Jupiter Notebook used](https://github.com/ndhomse/compare-classifiers/blob/main/notebook/Practical_App_3_17.1.ipynb)
 ### Problem statement ###
 The goal is to compare the performance of the classifiers (k-nearest neighbors, logistic regression, decision trees, and support vector machines). 
 The classification goal is to predict if the client subscribes (yes) for the product (bank term deposit) or not (no).
